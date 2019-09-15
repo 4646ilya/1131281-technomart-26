@@ -1,0 +1,229 @@
+<DOCTYPE html>
+<html lang="ru">
+  <head>
+    <meta charset="utf-8">
+    <title>Интернет-магазин строительных материалов и инструментов для ремонта</title>
+  </head>
+  <body>
+    <header>
+      <a href="index.thml">
+        <img src="" alt="Техномарт">
+      </a>
+      <section>
+        <form>
+          <input type="text" placeholder="Поиск:">
+          <button type="submit"></button>
+        </form>
+      </section>
+      <nav>
+        <ul>
+          <li> <a href="members"> Закладки:<span>0</span> </a></li>
+          <li> <a href="buy"> Корзинa <span>10</span> </a></li>
+        </ul>
+      </nav>
+      <section>
+        <button type="button">Оформить заказ </button>
+      </section>
+    </header>
+    <main>
+      <h1>Интернет-магазин строительных материалов и инструментов для ремонта</h1>
+       <section>
+          <ul>
+            <li>
+              <p> +7 (812) 555-05-55 г. Санкт-Петербург, ул. Б. Конюшенная, д. 19/8</p>
+            </li>
+          </ul>
+          <a href=""> Равшан Джамшутович</a>
+          <a href=""> Мои заказы</a>
+          <a href="">Личный кабинет </a>
+        </section>
+        <nav>
+          <ul>
+            <li> <a href=""> Главная </a></li>
+            <li> <a href="">Компания</a></li>
+            <li> <a href="catalog.HTML"> Каталог</a></li>
+            <li> <a href=""> Новости</a></li>
+            <li> <a href=""> Спецпредложения</a></li>
+            <li> <a href=""> Доставка</a></li>
+            <li> <a href=""> Контакты</a></li>
+          </ul>
+        </nav>
+        <section>
+          <ul>
+            <li>Католог</li>
+            <li>Инструмент</li>
+            <li>Перфораторы</li>
+          </ul>
+        </section>
+        <section>
+          <h2>Перфораторы</h2>
+          <ul>
+            <li>
+              <a href=""><h3>Перфоратор BOSCH BFG 3000</h3>
+              </a>
+              <img src="" alt="Перфоратор">
+              <img src="" alt="new">
+              <span>22500</span>
+              <span>15500</span>
+              <a href="#">Купить</a>
+              <a href="#">В закладки</a>
+            </li>
+            <li>
+              <a href=""><h3>Перфоратор BOSCH BFG 6000</h3>
+              </a>
+              <img src="" alt="Перфоратор">
+              <img src="" alt="new">
+              <span>30500</span>
+              <span>25500</span>
+              <a href="#">Купить</a>
+              <a href="#">В закладки</a>
+            </li>
+            <li>
+              <a href=""><h3>Перфоратор BOSCH BFG 2000</h3>
+              </a>
+              <img src="" alt="Перфоратор">
+              <img src="" alt="new">
+              <span>12500</span>
+              <a href="#">Купить</a>
+              <a href="#">В закладки</a>
+            </li>
+            <li>
+              <a href=""><h3>Перфоратор BOSCH BFG 3000</h3>
+              </a>
+              <img src="" alt="Перфоратор">
+              <img src="" alt="new">
+              <span>22500</span>
+              <span>15500</span>
+              <a href="#">Купить</a>
+              <a href="#">В закладки</a>
+            </li>
+            <li>
+              <a href=""><h3>Перфоратор BOSCH BFG 6000</h3>
+              </a>
+              <img src="" alt="Перфоратор">
+              <img src="" alt="new">
+              <span>30500</span>
+              <span>25500</span>
+              <a href="#">Купить</a>
+              <a href="#">В закладки</a>
+            </li>
+            <li>
+              <a href=""><h3>Перфоратор BOSCH BFG 2000</h3>
+              </a>
+              <img src="" alt="Перфоратор">
+              <img src="" alt="new">
+              <span>12500</span>
+              <a href="#">Купить</a>
+              <a href="#">В закладки</a>
+            </li>
+            <li>
+              <a href=""><h3>Перфоратор BOSCH BFG 3000</h3>
+              </a>
+              <img src="" alt="Перфоратор">
+              <img src="" alt="new">
+              <span>22500</span>
+              <span>15500</span>
+              <a href="#">Купить</a>
+              <a href="#">В закладки</a>
+            </li>
+            <li>
+              <a href=""><h3>Перфоратор BOSCH BFG 6000</h3>
+              </a>
+              <img src="" alt="Перфоратор">
+              <img src="" alt="new">
+              <span>30500</span>
+              <span>25500</span>
+              <a href="#">Купить</a>
+              <a href="#">В закладки</a>
+            </li>
+            <li>
+              <a href=""><h3>Перфоратор BOSCH BFG 2000</h3>
+              </a>
+              <img src="" alt="Перфоратор">
+              <img src="" alt="new">
+              <span>12500</span>
+              <a href="#">Купить</a>
+              <a href="#">В закладки</a>
+            </li>
+          </ul>
+        </section>
+        <section>
+          <h2>ПРОИЗВОДИТЕЛИ:</h2>
+          <ul>
+            <li>BOSCH</li>
+            <li>ИНТЕРСКОЛ</li>
+            <li>MAKIta</li>
+            <li>Dewalt</li>
+            <li>Hitachi</li>
+          </ul>
+        </section>
+        <section>
+          <h2>ПИТАНИЕ:</h2>
+          <ul>
+            <li>Аккумуляторные</li>
+            <li>Сетевые</li>
+          </ul>
+        </section>
+        <button type="button" >ПОКАЗАТЬ </button>
+    </main>
+    <footer>
+      <a href="index.thml">
+        <img src="" alt="Техномарт">
+      </a>
+      <p>г. Санкт-Петербург, ул. Б. Конюшенная, д. 19/8 +7 (812) 555-05-55 </p>
+      <p> © 2010–2019 Компания «Техномарт» Все права защищены</p>
+      <section>
+        <ul>
+          <li>
+            <a href="">Компания</a>
+          </li>
+          <li>
+            <a href=""> Новости</a>
+          </li>
+          <li>
+            <a href="catalog.HTML"> Каталог</a>
+          </li>
+          <li>
+            <a href=""> Доставка</a>
+          </li>
+          <li>
+            <a href=""> Контакты</a>
+          </li>
+       </ul>
+     </section>
+     <section>
+       <ul>
+         <li>
+            <a href="">Материалы</a>
+          </li>
+         <li>
+           <a href=""> Техника</a>
+         </li>
+         <li>
+            <a href=""> Инструмент</a>
+          </li>
+         <li>
+            <a href=""> Спецпредложения</a>
+          </li>
+       </ul>
+     </section>
+     <div>
+        <ul>
+          <li>
+            <a href="">Вконтакте </a>
+            <a href="">Фейсбук </a>
+            <a href="">Инстаграм </a>
+          </li>
+        </ul>
+      </div>
+      <p>
+        Обратная связь:
+        <a href="mail@htmlacademy.ru">HTML Academy </a>
+      </p>
+      <p>
+        Разработано:
+        <a href="https://htmlacademy.ru"> HTML Academy</a>
+      </p>
+    </footer>
+  </body>
+</html>
