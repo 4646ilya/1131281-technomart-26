@@ -56,6 +56,31 @@
           </ul>
         </section>
         <section>
+          <form class="" action="index.html" method="post">
+            <h4>Фильтр</h4>
+            <fieldset>
+              <p>Цена</p>
+              <div>
+                Ползунок
+              </div>
+              <input type="text" placeholder="0">
+              <input type="text" placeholder="30000">
+            </fieldset>
+          </form>
+        </section>
+        <section>
+          <p>Сортировка</p>
+          <ul>
+            <li>
+              <button type="button" name="button">По цене</button>
+              <button type="button" name="button">По типу</button>
+              <button type="button" name="button">По функционалу</button>
+              <button type="button" name="button"> up </button>
+              <button type="button" name="button"> down </button>
+            </li>
+          </ul>
+        </section>
+        <section>
           <h2>Перфораторы</h2>
           <ul>
             <li>
@@ -165,6 +190,20 @@
           </ul>
         </section>
         <button type="button" >ПОКАЗАТЬ </button>
+        <section>
+          <ul>
+            <li>
+              <a href="#">1</a>
+              <a href="#">2</a>
+              <a href="#">3</a>
+              <a href="#">Следующая</a>
+            </li>
+          </ul>
+        </section>
+        <section>
+          <h2>ПАРА СЛОВ О ПЕРФОРАТОРАХ</h2>
+          <p>Перфоратор — универсальный строительный инструмент. Предназначен для сверления и долбления отверстий в кирпиче, бетоне и камне. Существуют электромеханические и пневматические перфораторы. Современные модели могут выполнять функции дрели, шуруповерта и отбойного молотка. В ассортиментном ряду есть выбор «трехрежимников»: в одном устройстве будут совмещены отбойный молоток и ударная дрель.</p>
+        </section>
     </main>
     <footer>
       <a href="index.thml">
