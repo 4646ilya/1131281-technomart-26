@@ -69,7 +69,7 @@
             <fieldset>
               <p>Цена</p>
               <div>
-                Ползунок
+                <input type="range" min="0" max="30000" step="1" value="0">
               </div>
               <input type="text" placeholder="0">
               <input type="text" placeholder="30000">
