@@ -12,13 +12,18 @@
       <section>
         <form>
           <input type="text" placeholder="Поиск:">
+          <img src="img/icon-search.svg" alt="Иконка поиска">
           <button type="submit"></button>
         </form>
       </section>
       <nav>
         <ul>
-          <li> <a href="members"> Закладки:<span>0</span> </a></li>
-          <li> <a href="buy"> Корзинa <span>10</span> </a></li>
+          <li> <a href="members"> Закладки:<span>0</span> </a>
+               <img src="imf/icone-bookmark.svg" alt="Иконка закладка">
+          </li>
+          <li> <a href="buy"> Корзинa <span>10</span> </a>
+               <img src="img/icone-cart.svg" alt="">
+          </li>
         </ul>
       </nav>
       <section>
@@ -31,11 +36,14 @@
           <ul>
             <li>
               <p> +7 (812) 555-05-55 г. Санкт-Петербург, ул. Б. Конюшенная, д. 19/8</p>
+              <img src="img/icone-phone.svg" alt="Иконка телефона">
             </li>
           </ul>
           <a href=""> Равшан Джамшутович</a>
+          <img src="img/icone-user.svg" alt="Иконка пользователя">
           <a href=""> Мои заказы</a>
           <a href="">Личный кабинет </a>
+          <img src="img/icone-logout.svg" alt="Иконка выхода">
         </section>
         <nav>
           <ul>
@@ -244,8 +252,15 @@
         <ul>
           <li>
             <a href="">Вконтакте </a>
+            <img src="img/icone-vk.svg" alt="Иконка Вконтакте">
+          </li>
+          <li>
             <a href="">Фейсбук </a>
+            <img src="img/icone-fb.svg" alt="Иконка Фейсбук">
+          </li>
+          <li>
             <a href="">Инстаграм </a>
+            <img src="img/icone-ig.svg" alt="Иконка  Инстаграм">
           </li>
         </ul>
       </div>
