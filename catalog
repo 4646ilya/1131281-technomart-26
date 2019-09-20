@@ -175,23 +175,47 @@
           </ul>
         </section>
         <section>
-          <h2>ПРОИЗВОДИТЕЛИ:</h2>
-          <ul>
-            <li>BOSCH</li>
-            <li>ИНТЕРСКОЛ</li>
-            <li>MAKIta</li>
-            <li>Dewalt</li>
-            <li>Hitachi</li>
-          </ul>
+          <form class="" action="https://echo.htmlacademy.ru" method="get">
+            <fieldset>
+              <legend>ПРОИЗВОДИТЕЛИ:</legend>
+              <ul>
+                <li>
+                  <input type="checkbox" name="BOSCH" id="filter-BOSCH " checked>
+                  <label for="BOSCH">BOSCH</label>
+                </li>
+                <li>
+                  <input type="checkbox" name="ИНТЕРСКОЛ" id="filter-ИНТЕРСКОЛ ">
+                  <label for="ИНТЕРСКОЛ">ИНТЕРСКОЛ</label>
+                </li>
+                <li>
+                  <input type="checkbox" name="MAKITA" id="filter-MAKITA " checked>
+                  <label for="MAKITA">MAKITA</label>
+                </li>
+                <li>
+                  <input type="checkbox" name="Dewalt" id="filter-Dewalt ">
+                  <label for="Dewalt">Dewalt</label>
+                </li>
+                <li>
+                  <input type="checkbox" name="Hitachi" id="filter-Hitachi ">
+                  <label for="Hitachi">Hitachi</label></li>
+              </ul>
+            </fieldset>
+            <fieldset>
+              <legend>ПИТАНИЕ</legend>
+              <ul>
+                <li>
+                  <input type="radio" name="type-battary" value="battary" id="filter-battary" checked>
+                  <label for="filter-battary">Аккумуляторные</label>
+                </li>
+                <li>
+                  <input type="radio" name="type-network" value="network" id="filter-network">
+                  <label for="filter-network">Сетевые</label>
+                </li>
+              </ul>
+            </fieldset>
+            <button type="submit" >ПОКАЗАТЬ </button>
+          </form>
         </section>
-        <section>
-          <h2>ПИТАНИЕ:</h2>
-          <ul>
-            <li>Аккумуляторные</li>
-            <li>Сетевые</li>
-          </ul>
-        </section>
-        <button type="button" >ПОКАЗАТЬ </button>
         <section>
           <ul>
             <li>
