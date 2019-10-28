@@ -1,0 +1,1 @@
+$("#slider-range").slider({range:!0,min:0,max:3e4,step:50,slide:function(e,i){$("#min-price").html(i.values[0]),suffix="",i.values[1]==$("#max-price").data("max")&&(suffix=""),$("#max-price").html(i.values[1]+suffix)}});
