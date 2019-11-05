@@ -361,6 +361,10 @@ a {
 /*====================ДЕКОРАТИВНЫЕ ЭЛЕМЕНТЫ=================*/
 .search-icon input[type=text] {
    	box-sizing: border-box;
+   	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+
+
    	border: none;
 
     font-family: 'Cuprum', 'Arial', sans-serif;
@@ -374,7 +378,7 @@ a {
 
     padding-top: 12px;
     padding-bottom: 12px;
-   	padding-right: 74px;
+   	padding-right: 64px;
     padding-left: 47px;
     margin-left: 0px;
 
@@ -1431,7 +1435,7 @@ a {
 	margin: 0;
 
 	background-color: #ee3643;
-	padding: 12px 35px;
+	padding: 12px 34px;
 }
 
 .button-icon-catalog .basket-catalog:focus,
